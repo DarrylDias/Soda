@@ -1,4 +1,4 @@
 Soda
 ====
 
-The default theme that comes bundled with MiniSoda
+Soda is the default theme bundled with MiniSoda.
